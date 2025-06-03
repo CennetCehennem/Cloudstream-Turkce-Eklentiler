@@ -3,6 +3,6 @@
     "description": "Türkçe Cloudstream eklentiler listesi",
     "manifestVersion": 1,
     "pluginLists": [
-      "https://github.com/CennetCehennem/Cloudstream-Turkce-Eklentiler/blob/main/plugins.json"
+      "https://github.com/CennetCehennem/Cloudstream-Turkce-Eklentiler/main/plugins.json"
     ]
 }
