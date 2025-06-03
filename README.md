@@ -1,6 +1,6 @@
 # Makoto'nun Cloudstream Türkçe Eklentileri
 
-Deponun kısa kodu: **makotos**
+Deponun kısa kodu: **makoto**
 
 <img src="https://raw.githubusercontent.com/MakotoTokioki/Cloudstream-Turkce-Eklentiler/main/assets/persona-3-makoto-3393384685hh.gif" width="100%" />
 
